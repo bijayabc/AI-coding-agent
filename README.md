@@ -30,7 +30,7 @@ This AI Coding Agent leverages Google's Gemini 2.0 Flash model to provide intell
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bijayabc/AI-coding-agent
    cd ai-coding-agent
    ```
 
@@ -179,10 +179,6 @@ python tests.py
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-[Add your license information here]
 
 ## Support
 
